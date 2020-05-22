@@ -1,0 +1,43 @@
+{
+  "name": "kepobro-news-beta",
+  "version": "1.0.0",
+  "description": "PWA Support for KepoBro News",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andriannus/kepobro-pwa-beta.git"
+  },
+  "keywords": [
+    "pwa",
+    "javascript"
+  ],
+  "author": "Andre Simamora",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andriannus/kepobro-pwa-beta/issues"
+  },
+  "homepage": "https://github.com/andriannus/kepobro-pwa-beta#readme",
+  "devDependencies": {
+    "css-loader": "^3.5.3",
+    "file-loader": "^6.0.0",
+    "html-webpack-plugin": "^4.3.0",
+    "lit-element": "^2.3.1",
+    "lit-html": "^1.2.1",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.11.0",
+    "webpack-merge": "^4.2.2"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "materialize-css": "^1.0.0-rc.2",
+    "regenerator-runtime": "^0.13.5",
+    "rxjs": "^6.5.5"
+  }
+}
