@@ -1,0 +1,13 @@
+$primary-color: #363636;
+
+nav {
+  background-color: $primary-color;
+
+  .sidenav-trigger {
+    margin: 0 !important;
+  }
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons&display=swap");
+@import "materialize-css/sass/materialize.scss";
